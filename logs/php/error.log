@@ -1,0 +1,1 @@
+[17-Dec-2023 01:05:22 UTC] PHP Warning:  unlink(C:\Windows\TEMP/wordpress-6.4.2-ja.zip): No such file or directory in C:\Users\fate_\Local Sites\Takahashitosouten\app\public\wp-admin\includes\class-wp-upgrader.php on line 386
